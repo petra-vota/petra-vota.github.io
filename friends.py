@@ -7,3 +7,8 @@ john = {
 	'name': 'John',
 	'age': 24
 }
+
+isabel = {
+	'name': 'Isabel',
+	'age': 25
+}
