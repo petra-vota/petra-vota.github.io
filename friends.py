@@ -17,3 +17,8 @@ daniel = {
 	'name': 'Daniel',
 	'age': 22
 }
+
+anna = {
+	'name': 'Anna',
+	'age': 28
+}
