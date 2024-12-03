@@ -12,3 +12,8 @@ isabel = {
 	'name': 'Isabel',
 	'age': 25
 }
+
+daniel = {
+	'name': 'Daniel',
+	'age': 22
+}
