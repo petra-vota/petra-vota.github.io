@@ -22,3 +22,8 @@ anna = {
 	'name': 'Anna',
 	'age': 28
 }
+
+radim = {
+	'name': 'Radim',
+	'age': 15
+}
